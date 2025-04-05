@@ -90,7 +90,4 @@ This repository contains three notebooks that demonstrate a basic data pipeline 
 ---
 
 ## 👨‍💻 Author
-Suraj Satpute 
-Built using Databricks
-
-
+Suraj Satpute
